@@ -4,16 +4,16 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in PHP and CSS development.
+- 🌱 Currently improving my skills in C++ development.
 - 💡 I enjoy developing intuitive, user-friendly web applications.
-- 🤝 Open to collaborating on projects related to sports tech, event management, and e-commerce.
+- 🤝 Open to collaborating on projects related to web programming
 
 ## 🛠️ Tech Stack
 
 - **Languages**: PHP, HTML, CSS, JavaScript
-- **Frameworks**: Laravel (PHP), Bootstrap
+- **Frameworks**: Bootstrap, Vue.js, Angular, Node.js
 - **Database**: MySQL
-- **Tools**: Git, Composer, VS Code, Figma
+- **Tools**: Git, Composer, VS Code
 
 ## 🌐 Connect with Me
 
