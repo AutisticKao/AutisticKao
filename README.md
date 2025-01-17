@@ -22,6 +22,6 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 Thanks for stopping by! 😊
 
-Here's a cat gif for you
+Anyway, here's a cat gif for you
 
 ![](https://github.com/AutisticKao/AutisticKao/blob/main/Snapinst.app_video_AQNzVh98Pj3bbre-kETfoX2AGtWN7yNBvAbFaDpIOWquSeRwGtHmopxffIiua6MZ53J5SoXmOUyl4hDP3A5qe-Le5oRIGOwzBMN03Rk.gif)
