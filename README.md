@@ -10,9 +10,9 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 ## 🛠️ Tech Stack
 
-- **Languages**: PHP, HTML, CSS, JavaScript
+- **Languages**: PHP, HTML, CSS, JavaScript, Python, C++, Go lang
 - **Frameworks**: Bootstrap, Vue.js, Angular, Node.js
-- **Database**: MySQL
+- **Database**: MySQL, GraphQL
 - **Tools**: Git, Composer, VS Code
 
 ## 🌐 Connect with Me
