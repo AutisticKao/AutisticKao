@@ -4,7 +4,7 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in C++ development.
+- 🌱 Currently improving my skills in Javascript development.
 - 💡 I enjoy developing intuitive, user-friendly web applications.
 - 🤝 Open to collaborating on projects related to web programming
 
