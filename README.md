@@ -21,7 +21,3 @@ I'm a developer passionate about building useful digital solutions that make a d
 - [Email](mailto:ghifarel62@gmail.com)
 
 Thanks for stopping by! 😊
-
-Anyway, here's a cat gif for you
-
-![](https://github.com/AutisticKao/AutisticKao/blob/main/cat.gif)
