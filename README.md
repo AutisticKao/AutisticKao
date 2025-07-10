@@ -12,7 +12,7 @@ I'm a developer passionate about building useful digital solutions that make a d
 
 - **Languages**: PHP, HTML, CSS, JavaScript, Python, C++, Go lang
 - **Frameworks**: Bootstrap, Vue.js, Angular, Node.js
-- **Database**: MySQL, GraphQL
+- **Database**: MySQL, GraphQL, PostgreSQL
 - **Tools**: Git, Composer, VS Code
 
 ## 🌐 Connect with Me
