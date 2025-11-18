@@ -1,7 +1,7 @@
 ### Hi there, I'm AutisticKao 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AutisticKao&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true" alt="AutisticKao's GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AutisticKao&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutisticKao&layout=compact&theme=radical&hide_border=true" alt="AutisticKao's Top Languages" />
 </p>
 
