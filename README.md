@@ -1,4 +1,4 @@
-### Hi there, I'm AutisticKao 👋
+### Hi there, I'm Ghifarel Ahnaf 👋
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AutisticKao&theme=radical" alt="GitHub Streak" />
