@@ -1,6 +1,7 @@
 ### Hi there, I'm Ghifarel Ahnaf 👋
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AutisticKao&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="AutisticKao's Rank" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutisticKao&layout=compact&theme=radical&hide_border=true" alt="AutisticKao's Top Languages" />
 </p>
 
